@@ -1,0 +1,42 @@
+.vimrc default, sacado del vimtutor
+
+colorcheme wombat
+colorcheme vibrantink
+
+git-vim
+http://github.com/motemen/git-vim.git
+07-08-2010 fork de bogato está mas el día
+
+autocompletion+django
+http://blog.fluther.com/django-vim/
+
+syntax for templates
+http://www.vim.org/scripts/script.php?script_id=1487
+agregado tabs a 4 espacios:
+set softtabstop=4
+set shiftwidth=4
+set expandtab
+
+para identar:
+http://www.vim.org/scripts/script.php?script_id=974
+
+python shortcuts
+http://www.vim.org/scripts/script.php?script_id=30
+
+ftplugins/python.vim para pep8:
+setlocal tabstop=4
+setlocal softtabstop=4
+setlocal shiftwidth=4
+setlocal textwidth=80
+setlocal smarttab
+setlocal expandtab
+
+mejor formateo para python:
+http://www.vim.org/scripts/script.php?script_id=790
+
+para folding f y F:
+http://www.vim.org/scripts/script.php?script_id=1494
+
+http://github.com/tonchis
+snipmate, el colorscheme VibrantInk (es hermoso),  NERD_tree,
+y te recomiendo altamente que pruebes usar byobu (un plugin para screen) con vim
